@@ -37,7 +37,7 @@ jobs:
           Please find attached the automated test report.
           
 #          file://./build/reports/feature.html
-        attachments: ./build/reports/report.html
+        attachments: ./build/report.html
 
         from: Github Actions
         to: isratlien@gmail.com,shahareharanik@gmail.com,afsana.toma21@gmail.com
